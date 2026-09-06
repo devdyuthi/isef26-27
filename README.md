@@ -8,13 +8,13 @@
     - [ ] Double-check the solver against a standard math formula to prove it is accurate
 - [ ] **Testing area setup**
  <img src="readme_img/inverse_design_output_maps.png" alt="splitter v1" width="300">
-- [x] Create test area and check with a static heater
-- [x] Succesfully integrate with splitter
+- [X] Create test area and check with a static heater
+- [X] Succesfully integrate with splitter
   - [ ] Adjust the beam splitter layout to make sure the size, boundaries, and materials match what the temperature solver needs
   - [ ] Check that the built-in laser light source works correctly once heat-driven changes are added
 - [ ] **Splitter model**
       <img src="readme_img/splitterv1.png" alt="splitter v1" width="300">
-  -  [ ] Create Splitter and make sure it passes a simulation test before moving to:
+  -  [X] Create Splitter and make sure it passes a simulation test before moving to:
     - [ ] Run the default beam splitter at room temperature to make sure results match expected baseline numbers
     - [ ] Update the simulation so it adjusts the material properties based on temperature changes from hot spots
     - [ ] Measure how well light splits and passes through the device using performance metrics
