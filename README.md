@@ -6,9 +6,9 @@
     - [ ] Write the heater code that adds heat and calculates how it spreads across the area
     - [ ] Plot temperature graphs to make sure hot spots show up in the right spots and at the right temperatures
     - [ ] Double-check the solver against a standard math formula to prove it is accurate
-- [ ] **Testing area setup**
+**Testing area setup** ( complete minus heater )
 <img src="readme_img/inverse_design_output_maps.png" alt="splitter v1" width="300">
-- [ ] **Splitter model**
+**Splitter model** ( complete )
 <img src="readme_img/splitterv1.png" alt="splitter v1" width="300">
 - [ ] **System integration & math checks**
   - [ ] Connect the full process: Heat inputs → Temperature map → Material changes → Light simulation → Performance score
