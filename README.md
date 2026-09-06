@@ -10,6 +10,7 @@
   - [ ] Adjust the beam splitter layout to make sure the size, boundaries, and materials match what the temperature solver needs
   - [ ] Check that the built-in laser light source works correctly once heat-driven changes are added
 - [ ] **Splitter model**
+      <img src="readme_img/splitterv1.png" alt="splitter v1" width="300">
   -  [ ] Create Splitter and make sure it passes a simulation test before moving to:
     - [ ] Run the default beam splitter at room temperature to make sure results match expected baseline numbers
     - [ ] Update the simulation so it adjusts the material properties based on temperature changes from hot spots
