@@ -7,6 +7,9 @@
     - [ ] Plot temperature graphs to make sure hot spots show up in the right spots and at the right temperatures
     - [ ] Double-check the solver against a standard math formula to prove it is accurate
 - [ ] **Testing area setup**
+ <img src="readme_img/inverse_design_output_maps.png" alt="splitter v1" width="300">
+- [x] Create test area and check with a static heater
+- [x] Succesfully integrate with splitter
   - [ ] Adjust the beam splitter layout to make sure the size, boundaries, and materials match what the temperature solver needs
   - [ ] Check that the built-in laser light source works correctly once heat-driven changes are added
 - [ ] **Splitter model**
